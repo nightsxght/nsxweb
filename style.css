@@ -6,9 +6,11 @@
          url('fonts/Bethany-Elingston-Italic.woff') format('woff'),
          url('fonts/Bethany-Elingston-Italic.ttf')  format('truetype'),
          url('fonts/Bethany-Elingston-Italic.svg#Bethany Elingston') format('svg');
+    font-style: italic;
 }
 
 h1 {
     font-size: 6em;
     font-family:'BethanyElingston', serif;
+    font-style: italic;
 }
