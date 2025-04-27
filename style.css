@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Bethany Elingston';
+    font-family: 'BethanyElingston';
     src: url('fonts/Bethany-Elingston-Italic.eot');
     src: url('fonts/Bethany-Elingston-Italic.eot?#iefix') format('embedded-opentype'),
          url('fonts/Bethany-Elingston-Italic.woff2') format('woff2'),
@@ -9,5 +9,6 @@
 }
 
 h1 {
-    font-family: 'Bethany Elingston', serif;
+    font-size: 6em;
+    font-family:'BethanyElingston', serif;
 }
