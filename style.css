@@ -1,9 +1,5 @@
 @font-face {
     font-family: 'BethanyElingston';
-    src: url('bethany-elingston-italic.woff2');
+    src: url('fonts/bethany-elingston-italic.woff2');
     font-style: italic;
 }
-
-div {
-    font-family: myFirstFont;
-  }
