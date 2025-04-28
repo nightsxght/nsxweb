@@ -24,7 +24,5 @@ body {
 h1 {
     font-size: 6em;
     font-family: 'Bethany Elingston', serif;
-    font-weight: normal;
     font-style: italic;
-    font-display: swap;
 }
