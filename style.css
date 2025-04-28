@@ -1,16 +1,11 @@
 @font-face {
-    font-family: 'BethanyElingston';
-    src: url('fonts/Bethany-Elingston-Italic.eot');
-    src: url('fonts/Bethany-Elingston-Italic.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Bethany-Elingston-Italic.woff2') format('woff2'),
-         url('fonts/Bethany-Elingston-Italic.woff') format('woff'),
-         url('fonts/Bethany-Elingston-Italic.ttf')  format('truetype'),
-         url('fonts/Bethany-Elingston-Italic.svg#Bethany Elingston') format('svg');
+    font-family: 'Bethany Elingston';
+    src: url('fonts/Bethany-Elingston-Italic.woff2');
     font-style: italic;
 }
 
 h1 {
     font-size: 6em;
-    font-family:'BethanyElingston', serif;
+    font-family:'Bethany Elingston', serif;
     font-style: italic;
 }
