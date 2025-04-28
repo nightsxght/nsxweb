@@ -4,8 +4,6 @@
     font-style: italic;
 }
 
-h1 {
-    font-size: 6em;
-    font-family:'BethanyElingston', serif;
-    font-style: italic;
-}
+div {
+    font-family: myFirstFont;
+  }
