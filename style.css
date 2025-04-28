@@ -28,8 +28,9 @@ body {
 }
 
 h1 {
-  font-family: 'Bethany Elingston';
-  margin: .5;
+  font-family: 'Bethany Elingston', serif;
+    font-style: italic;
+  margin: .25;
 }
 
 .sub {
