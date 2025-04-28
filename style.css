@@ -1,42 +1,43 @@
 @font-face {
-    font-family: 'Bethany Elingston', serif;
-    src: url('BethanyElingston-Italic.woff2') format('woff2'),
-        url('BethanyElingston-Italic.ttf') format('truetype'),
-        url('BethanyElingston-Italic.svg#BethanyElingston-Italic') format('svg');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-    unicode-range: U+00-52F, U+1E00-1FFF, U+2200-22FF;
+  font-family: BethanyElingston;
+  src: url("fonts/Bethany\ Elingston.otf");
+}
+@font-face {
+  font-family: Inter;
+  src: url("fonts/Inter.ttf");
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap');
-
-html, body { height: 100%; }
-
-body {
-  background-color: #dce8ca;
+html, body {
+  height: 100%;
   color: #231735;
   padding: 1rem;
   margin: 0;
-  font-family: Inter, sans-serif;
+  padding: 0;
   font-optical-sizing: auto;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   overflow: hidden;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}
+html {
+  background-image: url("assets/tile.png");
+  background-size: 32px 32px;
+  background-color: #dce8ca;
 }
 
 h1 {
-  font-family: 'Bethany Elingston', serif;
+  font-family: BethanyElingston, Arial, Helvetica, sans-serif;
     font-weight: normal;
     font-style: italic;
-    font-display: swap;
-  margin: .25;
 }
 
 .sub {
   margin: 0;
   color: #231735;
-  font-weight: 300;
+  font-weight: 200;
+}
+.top-header {
+  margin-bottom: 8px;
 }
