@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Bethany Elingston';
-    src: url('Bethany-Elingston-Italic.woff2');
+    font-family: 'BethanyElingston';
+    src: url('bethany-elingston-italic.woff2');
     font-style: italic;
 }
 
 h1 {
     font-size: 6em;
-    font-family:'Bethany Elingston', serif;
+    font-family:'BethanyElingston', serif;
     font-style: italic;
 }
