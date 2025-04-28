@@ -15,25 +15,25 @@ i cant get it to import HELPPPPPPPPPPPPPPPPPPPPPPPP */
 html, body { height: 100%; }
 
 body {
-    background-color: #dce8ca;
-    color: #231735;
-    padding: 1rem;
-    margin: 0;
-    font-family: Inter, sans-serif;
-    font-optical-sizing: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    overflow: hidden;
-  }
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  margin: 0;
+  font-family: Inter, sans-serif;
+  font-optical-sizing: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+}
 
 h1 {
-   margin: 1;
+  margin: 1;
 }
 
 .sub {
-    margin: 0;
-    color: #AAA;
-    font-weight: 300;
-  }
+  margin: 0;
+  color: #AAA;
+  font-weight: 300;
+}
