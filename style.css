@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Bethany Elingston';
+    font-family: 'Bethany Elingston', serif;
     src: url('BethanyElingston-Italic.woff2') format('woff2'),
         url('BethanyElingston-Italic.ttf') format('truetype'),
         url('BethanyElingston-Italic.svg#BethanyElingston-Italic') format('svg');
@@ -19,4 +19,12 @@ body {
     display: flex;
     flex-direction: column;
     overflow: hidden;
+}
+
+h1 {
+    font-size: 6em;
+    font-family: 'Bethany Elingston', serif;
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
 }
