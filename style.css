@@ -1,4 +1,4 @@
-/* @font-face {
+@font-face {
     font-family: 'Bethany Elingston', serif;
     src: url('BethanyElingston-Italic.woff2') format('woff2'),
         url('BethanyElingston-Italic.ttf') format('truetype'),
@@ -8,7 +8,6 @@
     font-display: swap;
     unicode-range: U+00-52F, U+1E00-1FFF, U+2200-22FF;
 }
-i cant get it to import HELPPPPPPPPPPPPPPPPPPPPPPPP */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap');
 
@@ -29,6 +28,7 @@ body {
 }
 
 h1 {
+  font-family: 'Bethany Elingston';
   margin: .5;
 }
 
