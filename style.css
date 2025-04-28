@@ -3,3 +3,14 @@
     src: url('fonts/bethany-elingston-italic.woff2');
     font-style: italic;
 }
+
+body {
+    background-color: #DCE8CA;
+    color: #231735;
+    padding: 1rem;
+    margin: 0;
+    font-optical-sizing: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
