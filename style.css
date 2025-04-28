@@ -6,6 +6,7 @@
     font-weight: normal;
     font-style: italic;
     font-display: swap;
+    unicode-range: U+00-52F, U+1E00-1FFF, U+2200-22FF;
 }
 
 html, body { height: 100%; }
