@@ -15,18 +15,18 @@ i cant get it to import HELPPPPPPPPPPPPPPPPPPPPPPPP */
 html, body { height: 100%; }
 
 body {
-    background-color: #DCE8CA;
+    background-color: #dce8ca;
     color: #231735;
     padding: 1rem;
     margin: 0;
+    font-family: Inter, sans-serif;
     font-optical-sizing: auto;
     display: flex;
-    overflow: hidden;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     overflow: hidden;
-}
+  }
 
 h1 {
    margin: 1;
