@@ -9,7 +9,7 @@
 
 html, body {
   height: 100%;
-  color: #231735;
+  color: #000000;
   padding: 1rem;
   margin: 0;
   padding: 0;
@@ -24,7 +24,7 @@ html, body {
 html {
   background-image: url("assets/tile.png");
   background-size: 32px 32px;
-  background-color: #b9e1ff;
+  background-color: #000ad2;
 }
 
 h1 {
